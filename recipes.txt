@@ -6,4 +6,7 @@ Menu
 4.Zafa
 5.Mirinda
 6.Coco cola
+7.Biryani
+8.Ghee rice
+9.Fried Rice
 Thank you
