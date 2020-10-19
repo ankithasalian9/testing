@@ -3,4 +3,7 @@ Menu
 1.Chicken fry
 2.Paneer chilly
 3.Maggi
+4.Zafa
+5.Mirinda
+6.Coco cola
 Thank you
